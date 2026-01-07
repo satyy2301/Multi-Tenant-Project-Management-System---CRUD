@@ -1,7 +1,7 @@
 # Mini Project Management System
 
 A full-stack multi-tenant project management tool built with Django GraphQL backend and React TypeScript frontend.
-
+Video demo : https://drive.google.com/file/d/1dDeso-LXfnYtmJYQ2Tr_ZAY9_PUoerOY/view?usp=sharing
 ## 🚀 Features
 <img width="1919" height="862" alt="Screenshot 2026-01-07 175451" src="https://github.com/user-attachments/assets/0e814475-3de9-477d-86aa-725ba96cfe10" />
 
