@@ -3,8 +3,14 @@
 A full-stack multi-tenant project management tool built with Django GraphQL backend and React TypeScript frontend.
 
 ## 🚀 Features
+<img width="1919" height="862" alt="Screenshot 2026-01-07 175451" src="https://github.com/user-attachments/assets/0e814475-3de9-477d-86aa-725ba96cfe10" />
 
-### Backend
+<img width="679" height="800" alt="Screenshot 2026-01-07 175456" src="https://github.com/user-attachments/assets/4f5e00b6-8189-489f-96b0-ddb6c4eb5cf6" />
+<img width="1102" height="957" alt="Screenshot 2026-01-07 175509" src="https://github.com/user-attachments/assets/1fd3df3f-aab4-4f0b-bf79-75e045593a64" />
+
+<img width="1612" height="874" alt="Screenshot 2026-01-07 175519" src="https://github.com/user-attachments/assets/e993917e-1bf9-47d4-95df-e8360bd5bb1a" />
+
+# Backend
 - **Multi-tenant Architecture**: Organization-based data isolation
 - **GraphQL API**: Complete CRUD operations with Graphene
 - **Django Models**: Organization, Project, Task, and TaskComment
